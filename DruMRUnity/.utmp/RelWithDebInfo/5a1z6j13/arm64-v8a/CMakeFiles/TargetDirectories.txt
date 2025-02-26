@@ -1,0 +1,5 @@
+C:/Users/student/Documents/unity_projects/lab_1_viktor_radev/.utmp/RelWithDebInfo/5a1z6j13/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/student/Documents/unity_projects/lab_1_viktor_radev/.utmp/RelWithDebInfo/5a1z6j13/arm64-v8a/CMakeFiles/rebuild_cache.dir
+C:/Users/student/Documents/unity_projects/lab_1_viktor_radev/.utmp/RelWithDebInfo/5a1z6j13/arm64-v8a/GameActivity/CMakeFiles/game.dir
+C:/Users/student/Documents/unity_projects/lab_1_viktor_radev/.utmp/RelWithDebInfo/5a1z6j13/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+C:/Users/student/Documents/unity_projects/lab_1_viktor_radev/.utmp/RelWithDebInfo/5a1z6j13/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir
